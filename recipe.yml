@@ -1,3 +1,36 @@
 name: 'Formula: Foundational'
 description: 'Recipe to build foundational functionality in Drupal.'
 type: 'Site'
+
+install:
+  - config
+  - datetime
+  - entity_reference_revisions
+  - field_ui
+  - focal_point
+  - help
+  - layout_paragraphs
+  - link
+  - media
+  - media_library
+  - menu_link_content
+  - menu_ui
+  - node
+  - nomarkup
+  - options
+  - paragraphs
+  - pathauto
+  - taxonomy
+  - toolbar
+  - views
+  - views_ui
+  - claro
+  - olivero
+
+recipes:
+  - 'formula-media'
+  - 'formula-paragraphs'
+  - 'formula-events'
+  - 'formula-news'
+
+
