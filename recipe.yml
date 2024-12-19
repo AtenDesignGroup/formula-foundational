@@ -1,3 +1,3 @@
-name: 'Formula: Events'
-description: 'Recipe to build events functionality in Drupal.'
+name: 'Formula: Foundational'
+description: 'Recipe to build foundational functionality in Drupal.'
 type: 'Site'
