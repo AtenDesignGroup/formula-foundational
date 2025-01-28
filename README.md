@@ -1,2 +1,2 @@
-# formula-events
-Recipe to build events functionality for Drupal.
+# formula-foundational
+Recipe to build foundational functionality in Drupal.
