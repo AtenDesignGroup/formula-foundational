@@ -1,4 +1,4 @@
-name: 'Formula: Foundational'
+name: '🦄 🌈  Formula: Foundational'
 description: 'Recipe to build foundational functionality in Drupal.'
 type: 'Site'
 
@@ -27,6 +27,8 @@ install:
   - claro
   - olivero
 config:
+  import:
+    media: "*"
   actions:
     node.type.page:
       simple_config_update:
